@@ -1,0 +1,6 @@
+unsetopt auto_pushd
+unsetopt pushd_ignore_dups
+unsetopt pushdminus
+unsetopt sharehistory
+unsetopt histverify
+unset LSCOLORS
